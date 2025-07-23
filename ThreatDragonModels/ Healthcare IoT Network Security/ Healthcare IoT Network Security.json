@@ -28,9 +28,19 @@
         "version": "2.4.1",
         "cells": [],
         "description": "Admin PC"
+      },
+      {
+        "id": 2,
+        "title": "Processes",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "Monitoring Server"
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   }
