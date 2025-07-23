@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": " Healthcare IoT Network Security",
+    "owner": "",
+    "description": "A network consisting of IoT medical devices like heart rate monitor, infusion pump, IP camera, and monitoring server",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
